@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @diogotec, I'm Multimidia Producer from Brazil! 
+## olá eu sou Diogo Dias!
+- 👋🏾 Hi, I’m @diogotec, I'm Multimidia Producer from Brazil! 
 - 👀 I’m interested in code and vídeos...
 - 🌱 I’m currently learning Python for BackEnd...
+- 
 
 
 <!---
