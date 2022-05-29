@@ -1,8 +1,7 @@
-## Olá eu sou Diogo Dias!
+## Olá, eu me chamo Diogo Dias!
 - 👋🏾 Hi, I’m @diogotec, I'm Multimidia Producer from Brazil! 
 - 👀 I’m interested in code and vídeos...
-- 🌱 I’m currently learning Python for BackEnd...
-- 
+- 🌱 I’m currently learning Python, HTML And CSS...
 
 
 <!---
